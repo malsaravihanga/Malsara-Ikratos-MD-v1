@@ -18,9 +18,9 @@ import { fileURLToPath } from 'url'
 import moment from 'moment-timezone'
 
 /*============= WAKTU =============*/
-let wibh = moment.tz('Asia/Karachi').format('HH')
-    let wibm = moment.tz('Asia/Karachi').format('mm')
-    let wibs = moment.tz('Asia/Karachi').format('ss')
+let wibh = moment.tz('Asia/Srilanka').format('HH')
+    let wibm = moment.tz('Asia/Srilanka').format('mm')
+    let wibs = moment.tz('Asia/Srilanka').format('ss')
     let wktuwib = `${wibh} H ${wibm} M ${wibs} S`
     
     let d = new Date(new Date + 3600000)
@@ -48,15 +48,15 @@ global.sdc = '-' //Fill it out using the Discord link, if there is one, just lea
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '94710175393' //Nomor Danamu
+global.ppulsa = '94710175393' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
-global.namebot = 'Ikratos-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.nomorbot = '94710175393' //Nomor Bot
+global.nomorown = '94710175393' //Nomor Owner
+global.namebot = '෴𝕄𝕒𝕝𝕤𝕒𝕣𝕒×᷼×𝔹𝕠𝕥෴' //Nama Bot
+global.nameown = '꧁ Mᴀʟsᴀʀᴀ Vɪʜᴀɴɢᴀ ꧂' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
@@ -112,7 +112,7 @@ global.footerTXT = `ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪ�
 global.fig = `Follow me on instagram:\n\t\tinstagram.com/itx_ahmad.ali`
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
-global.titlebot = '🎋 ┊ ɪᴋʀᴀᴛᴏs ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '෴𝕄𝕒𝕝𝕤𝕒𝕣𝕒×᷼×𝔹𝕠𝕥෴'
 global.author = global.wm
 global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
 
